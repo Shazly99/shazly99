@@ -32,6 +32,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-elshazly-345076151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-elshazly-345076151/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009776111150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009776111150" height="30" width="40" /></a>
+<a href="https://ahmedshazly-portfolio.netlify.app/" target="blank"><img align="center" src="https://i.pinimg.com/474x/b7/ca/6e/b7ca6e0493884d85fea192863f8be220.jpg" alt="https://www.facebook.com/profile.php?id=100009776111150" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h3>
