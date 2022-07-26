@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed EL-shazly</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazly99&label=Profile%20views&color=0e75b6&style=flat" alt="shazly99" /> </p>
 
 - 🔭 I’m currently working on **Keep Notes website using angular**
