@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shazly99&show_icons=true&locale=en&layout=compact" alt="shazly99" /></p>
 
-<p>&nbsp;<img align="right" width="100" src="https://github-readme-stats.vercel.app/api?username=shazly99&show_icons=true&locale=en" alt="shazly99" /></p>
+<p>&nbsp;<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=shazly99&show_icons=true&locale=en" alt="shazly99" /></p>
 
  
