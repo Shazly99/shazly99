@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **GYM website using React.Js and Materal-UI **
 
-- 🌱 I’m currently learning **Backend .net Core API**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
