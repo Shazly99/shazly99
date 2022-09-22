@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazly99&label=Profile%20views&color=0e75b6&style=flat" alt="shazly99" /> </p>
  
 
-- 🔭 I’m currently working on **Gym website using React.Js**
+- 🔭 I’m currently working on **GYM website using React.Js**
 
 - 🌱 I’m currently learning **Backend .net Core API**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmedshazly-portfolio.netlify.app/](https://ahmedshazly-portfolio.netlify.app/)
 
-- 💬 Ask me about **web design and Angular**
+- 💬 Ask me about **web design, Angular and React.js**
 
 - 📫 How to reach me **ahmed.as.elshazly@gmail.com**
 
