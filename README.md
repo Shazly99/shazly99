@@ -28,13 +28,13 @@
 <br/>
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-elshazly-345076151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-elshazly-345076151/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009776111150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009776111150" height="30" width="40" /></a>
-<a  href="https://ahmedshazly-portfolio.vercel.app/" target="_blank"><img align="center" src="https://i.im.ge/2022/07/26/Fhsc5y.png"   width="40" /></a>
+<a  href="https://ahmedshazly-portfolio.vercel.app/" target="_blank"><img align="center" src="https://images.prismic.io/boringowl/a1d3a150-b473-42d5-89bf-6eb3e6f4f4c2_sanity+headless+CMS+urza%CC%A8dzen%CC%81+i+produkto%CC%81w+cyfrowych.jpeg?auto=compress,format"   width="40" /></a>
 </p>
-<bt/>
+<br/> 
  <h2>My Top Tech Stacks</h2>   
 
  <table>
