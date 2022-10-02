@@ -151,7 +151,7 @@
           height="64px"
           src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
         />
-        <br />Adoube XD
+        <br />Adobe XD
       </td>
       <td align="center">
         <img
