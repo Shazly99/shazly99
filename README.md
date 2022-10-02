@@ -37,8 +37,16 @@
 <bt/>
  <h2>My Top Tech Stacks</h2>   
 
-  <table>
+<table>
     <tr>
+        <td align="center">
+            <img
+              alt="javascript"
+              height="64px"
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            />
+            <br />JavaScript
+          </td>
       <td align="center">
         <img
           alt="javascript"
@@ -102,33 +110,33 @@
           src="https://user-images.githubusercontent.com/57854391/193434573-02dc69e1-ab05-4541-a043-cfd9758d2531.png"
         />
         <br />MUI
-      </td>
-      <td align="center">
-        <img
-          alt="sass"
-          height="64px"
-          src="https://user-images.githubusercontent.com/57854391/193434573-02dc69e1-ab05-4541-a043-cfd9758d2531.png"
-        />
-        <br />MUI
-      </td>
+      </td> 
     </tr>
     <tr>
-      <td align="center">
-        <img
-          alt="javascript"
-          height="64px"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        />
-        <br />Html5
-      </td>
-      <td align="center">
-        <img
-          alt="react"
-          height="64px"
-          src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"
-        />
-        <br />Css3
-      </td>
+        <td align="center">
+            <img
+              alt="react"
+              height="64px"
+              src="https://user-images.githubusercontent.com/57854391/193435217-45be93d1-a8ef-4940-8050-30c778386690.png"
+            />
+            <br />Html5
+          </td>
+          <td align="center">
+            <img
+              alt="react"
+              height="64px"
+              src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"
+            />
+            <br />Css3
+          </td>
+          <td align="center">
+            <img
+              alt="react"
+              height="64px"
+              src="https://user-images.githubusercontent.com/57854391/193435234-472d274c-343f-428a-b2d3-66c3c2b5a579.png"
+            />
+            <br />Bootstrap
+          </td>
       <td align="center">
         <img
           alt="Redux"
@@ -176,15 +184,7 @@
           src="https://user-images.githubusercontent.com/57854391/193434407-98033af4-b1bb-4672-b23b-936dc981323e.png"
         />
         <br />Markdwon
-      </td>
-      <td align="center">
-        <img
-          alt="sass"
-          height="64px"
-          src="https://user-images.githubusercontent.com/57854391/193434407-98033af4-b1bb-4672-b23b-936dc981323e.png"
-        />
-        <br />Markdwon
-      </td>
+      </td> 
     </tr>
  
   </table>
