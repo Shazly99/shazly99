@@ -37,7 +37,7 @@
 <bt/>
  <h2>My Top Tech Stacks</h2>   
 
-<table>
+ <table>
     <tr>
         <td align="center">
             <img
@@ -91,14 +91,6 @@
         <img
           alt="sass"
           height="64px"
-          src="https://user-images.githubusercontent.com/57854391/193434488-54b07f3c-d1b0-4f2a-89d1-ea76798261bc.png"
-        />
-        <br />Sanity 
-      </td>
-      <td align="center">
-        <img
-          alt="sass"
-          height="64px"
           src="https://user-images.githubusercontent.com/57854391/193434573-02dc69e1-ab05-4541-a043-cfd9758d2531.png"
         />
         <br />MUI
@@ -107,9 +99,17 @@
         <img
           alt="sass"
           height="64px"
-          src="https://user-images.githubusercontent.com/57854391/193434573-02dc69e1-ab05-4541-a043-cfd9758d2531.png"
+          src="https://user-images.githubusercontent.com/57854391/193435375-8732b78c-4c2c-49b5-8bbc-9f2c3c635681.png"
         />
-        <br />MUI
+        <br />Git
+      </td>
+      <td align="center">
+        <img
+          alt="sass"
+          height="64px"
+          src="https://user-images.githubusercontent.com/57854391/193435481-92480c38-7fdb-42bf-a014-3aec2e9dc92d.png"
+        />
+        <br />framer motion 
       </td> 
     </tr>
     <tr>
@@ -176,16 +176,15 @@
           src="https://user-images.githubusercontent.com/57854391/193434407-98033af4-b1bb-4672-b23b-936dc981323e.png"
         />
         <br />Markdwon
-      </td>
+      </td> 
       <td align="center">
         <img
           alt="sass"
           height="64px"
-          src="https://user-images.githubusercontent.com/57854391/193434407-98033af4-b1bb-4672-b23b-936dc981323e.png"
+          src="https://user-images.githubusercontent.com/57854391/193434488-54b07f3c-d1b0-4f2a-89d1-ea76798261bc.png"
         />
-        <br />Markdwon
-      </td> 
+        <br />Sanity 
+      </td>
     </tr>
  
   </table>
-
