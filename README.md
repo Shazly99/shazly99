@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmedshazly-portfolio.netlify.app/](https://ahmedshazly-portfolio.netlify.app/)
 
-- 💬 Ask me about **web design, Angular and React.js**
+- 💬 Ask me about **web design, Angular , React.js and Next.Js**
 
 - 📫 How to reach me **ahmed.as.elshazly@gmail.com**
 
