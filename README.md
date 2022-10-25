@@ -75,7 +75,7 @@
         <img
           alt="Nextjs"
           height="64px"
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
+          src="https://user-images.githubusercontent.com/57854391/197752350-ed6af528-07af-4b9c-a87a-42f6ed860294.png"
         />
         <br />Next.js
       </td>
