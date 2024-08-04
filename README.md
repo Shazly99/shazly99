@@ -11,8 +11,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazly99&label=Profile%20views&color=0e75b6&style=flat" alt="shazly99" /> </p>
  
 
-- 🔭 I’m currently working on ***Bytrh-Admin Dashbord using React.js*** 
-
 - 🌱 I’m currently learning ***Next.Js***
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
